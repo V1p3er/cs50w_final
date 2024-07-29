@@ -6,16 +6,9 @@ This project is an online version of the Pig dice game, implemented with JavaScr
 
 ## Features
 
-- **User Authentication**: Register, log in, and manage accounts.
 - **Real-Time Gameplay**: Dynamic game state updates.
 - **Score Tracking**: Persistent score and game history.
 - **Responsive Design**: Optimized for both desktop and mobile.
-
-## Distinctiveness and Complexity
-
-- **User Interaction**: Combines real-time game mechanics with secure user authentication and data persistence.
-- **Real-Time Updates**: Uses AJAX for smooth gameplay without page reloads.
-- **Data Persistence**: Efficient data management using Django ORM.
 
 ## Installation and Setup
 
@@ -54,10 +47,5 @@ This project is an online version of the Pig dice game, implemented with JavaScr
 7. **Access the Application**:
    Open your web browser and go to `http://127.0.0.1:8000/`.
 
-## Future Enhancements
-
-- **Multiplayer Support**: Enable real-time online play.
-- **Enhanced UI/UX**: Add animations and improve responsiveness.
-- **Statistics and Leaderboards**: Track player stats and global leaderboards.
 
 Enjoy playing the Pig Game! For any questions or feedback, feel free to reach out.
