@@ -14,8 +14,9 @@ This project is an online version of the Pig dice game, implemented with JavaScr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pig-game-django.git
-   cd pig-game-django
+   git clone git@github.com:V1p3er/cs50w_final.git
+   cd cs50w_final
+
    ```
 
 2. **Set Up the Virtual Environment**:
